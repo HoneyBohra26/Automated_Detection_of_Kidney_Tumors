@@ -1,0 +1,15 @@
+artifact_uri: file:///home/honey/Automated_Detection_of_Kidney_Tumors/mlruns/414854919412216298/4126701876b0434eaae7c9d52f76896d/artifacts
+end_time: 1723135656510
+entry_point_name: ''
+experiment_id: '414854919412216298'
+lifecycle_stage: active
+run_id: 4126701876b0434eaae7c9d52f76896d
+run_name: receptive-moose-277
+run_uuid: 4126701876b0434eaae7c9d52f76896d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723135652375
+status: 3
+tags: []
+user_id: honey

@@ -1,0 +1,12 @@
+creation_timestamp: 1723135656503
+current_stage: None
+description: null
+last_updated_timestamp: 1723135656503
+name: VGG16Model
+run_id: 4126701876b0434eaae7c9d52f76896d
+run_link: null
+source: file:///home/honey/Automated_Detection_of_Kidney_Tumors/mlruns/414854919412216298/4126701876b0434eaae7c9d52f76896d/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
