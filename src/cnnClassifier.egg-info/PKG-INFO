@@ -1,7 +1,11 @@
 Metadata-Version: 2.1
 Name: cnnClassifier
 Version: 0.0.0
+Summary: A small python package for CNN app
 Home-page: https://github.com/Honey_Bohra/Automated_Detection_of_Kidney_Tumors
 Author: Honey_Bohra
 Author-email: honeybohra26@gmail.com
 Project-URL: Bug Tracker, https://github.com/Honey_Bohra/Automated_Detection_of_Kidney_Tumors/issues
+Description-Content-Type: text/markdown
+
+# Automated_Detection_of_Kidney_Tumors
