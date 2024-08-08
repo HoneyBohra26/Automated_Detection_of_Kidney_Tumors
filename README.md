@@ -1,1 +1,0 @@
-# Automated_Detection_of_Kidney_Tumors
